@@ -35,7 +35,7 @@ pip install notebook
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/murtazakhanpro/lyntica_property_management_system)
    ```
 
 2. **Navigate into the directory**:
